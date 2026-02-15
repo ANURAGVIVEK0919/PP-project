@@ -1,0 +1,14 @@
+torch
+
+transformers
+datasets
+pandas
+matplotlib
+psutil
+tqdm
+scikit-learn
+streamlit
+py-cpuinfo
+seaborn
+openpyxl
+python-dotenv
